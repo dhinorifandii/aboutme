@@ -77,9 +77,3 @@ p {
   color: #fff; /* adjust the color to your liking */
 }
 
-/* Mobile Phone */
-@media (max-width: 450px) {
-  html {
-    font-size: 55%;
-  }
-}
