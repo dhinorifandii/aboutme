@@ -74,3 +74,10 @@ p {
   font-size: 230px; /* adjust the font size to your liking */
   color: #fff; /* adjust the color to your liking */
 }
+
+/* Mobile Phone */
+@media (max-width: 450px) {
+  html {
+    font-size: 55%;
+  }
+}
